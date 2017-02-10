@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_44302ecc5db3e24bf70c30a8008c8b616d01511f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\libs\FeatureExtractor-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ad506f50ae5ee23f196e787a559fe597ed261d66">
+        <dex dex="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\build\intermediates\pre-dexed\debug\FeatureExtractor-1.3_7b19ed1c731e27b44882552e40462049588ba096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_12fc5ce067915716b0e43d973092c3b81ca946b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\libs\TarsosDSP-Android-latest.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e117075d275a45da96046e4efb3ca0a30e60b809">
+        <dex dex="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\build\intermediates\pre-dexed\debug\TarsosDSP-Android-latest_4d2c3a980cfe6b1e0afb442bb5d6e09dc3cb218f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\libs\opencsv-3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="100f1f66bcade989c73eabd3d56ac39df47317df">
+        <dex dex="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\build\intermediates\pre-dexed\debug\opencsv-3.1_b35857982a9f5584f5782cf13472623003da2a8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\svillanueva\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_88511a716f71020f872915d5754f4853626765c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\libs\jgrapht-core-0.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="83fda0ca7098521d70cfb7891bee1d1f899e00f4">
+        <dex dex="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\build\intermediates\pre-dexed\debug\jgrapht-core-0.9.2_d3e84d95867799baab689949c6d4ebd0197df8fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\svillanueva\PD_Manager\Technical_work\Cognitive\App\PDManagerTest\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_2c3b24b686d3db5a6a81c0f55d49ff4d8cf69b39.jar" />
+    </item>
+
+</items>
