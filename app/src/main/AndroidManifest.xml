@@ -1,0 +1,250 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="es.upm.tfo.lst.pdmanagertest">
+
+<uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <supports-screens
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="true"
+        android:xlargeScreens="true" />
+
+
+    <uses-sdk android:minSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="portrait"
+        >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".SettingsActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="portrait"
+        />
+        <activity
+            android:name=".Settings1Activity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="portrait"
+        />
+        <activity
+            android:name=".Settings2Activity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="portrait"
+        />
+
+        <activity
+            android:name=".tools.SplashActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="userPortrait"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity
+            android:name=".MainMenu"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:label="@string/app_name"
+            android:screenOrientation="userPortrait">
+        </activity>
+
+        <activity
+            android:name=".cognitive.CognitiveMenu"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="userPortrait"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".speech.SpeechTest"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="userPortrait"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".speech.proccessing.MFCCsExtractor"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="userPortrait"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity
+            android:name=".cognitive.PairedAssociatesLearningTest"
+            android:label="@string/title_menu2"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:parentActivityName=".cognitive.CognitiveMenu"
+            android:screenOrientation="userLandscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".cognitive.CognitiveMenu" />
+        </activity>
+
+        <activity
+            android:name=".cognitive.PALPRM"
+            android:label="@string/title_menu10"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="userLandscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".cognitive.CognitiveMenu" />
+        </activity>
+
+        <activity
+            android:name=".cognitive.PatternRecognitionMemoryTest"
+            android:label="@string/title_menu3"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="userLandscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".cognitive.CognitiveMenu" />
+        </activity>
+
+        <activity
+            android:name=".cognitive.SpatialWorkingMemoryTest"
+            android:label="@string/title_menu4"
+            android:screenOrientation="userLandscape"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:parentActivityName=".cognitive.CognitiveMenu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".cognitive.CognitiveMenu" />
+        </activity>
+
+        <activity
+            android:name=".cognitive.SpatialSpanTest"
+            android:label="@string/title_menu5"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:parentActivityName=".cognitive.CognitiveMenu"
+            android:screenOrientation="userLandscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".cognitive.CognitiveMenu" />
+        </activity>
+
+        <activity
+            android:name=".cognitive.StopSignalTaskTest"
+            android:label="@string/title_menu6"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:parentActivityName=".cognitive.CognitiveMenu"
+            android:screenOrientation="userLandscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".cognitive.CognitiveMenu" />
+        </activity>
+
+        <activity
+            android:name=".cognitive.WisconsinCardSorting"
+            android:label="@string/title_menu9"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:parentActivityName=".cognitive.CognitiveMenu"
+            android:screenOrientation="userLandscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".cognitive.CognitiveMenu"
+            />
+        </activity>
+
+        <activity
+            android:name=".cognitive.LondonTowersTest"
+            android:label="@string/title_menu9"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:parentActivityName=".cognitive.CognitiveMenu"
+            android:screenOrientation="userLandscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".cognitive.CognitiveMenu"
+            />
+        </activity>
+
+        <activity
+            android:name=".cognitive.AttentionSwitchingTaskTest"
+            android:label="@string/title_menu7"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:parentActivityName=".cognitive.CognitiveMenu"
+            android:screenOrientation="userLandscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".cognitive.CognitiveMenu" />
+        </activity>
+
+        <activity
+            android:name=".cognitive.VisualAnalogueScaleTest"
+            android:label="@string/title_menu8"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:parentActivityName=".cognitive.CognitiveMenu"
+            android:screenOrientation="userLandscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".cognitive.CognitiveMenu" />
+        </activity>
+
+        <activity
+            android:name=".cognitive.VisualAnalogueScaleTest2"
+            android:label="@string/title_menu8"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:parentActivityName=".cognitive.CognitiveMenu"
+            android:screenOrientation="userLandscape">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".cognitive.CognitiveMenu" />
+        </activity>
+
+        <activity
+            android:name=".fingertapping.FingerTappingTestOne"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="userPortrait" >
+        </activity>
+
+        <activity
+            android:name=".fingertapping.FingerTappingTestTwo"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="userPortrait" >
+        </activity>
+
+        <activity
+            android:name=".fingertapping.FingerTappingEnd"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="userPortrait" >
+        </activity>
+
+        <activity
+            android:name=".AlarmActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:screenOrientation="userPortrait" >
+        </activity>
+
+        <receiver android:name=".alarms.AlarmBroadcast" android:exported="false">
+            <intent-filter>
+                <action android:name="pdmanageralarm" />
+            </intent-filter>
+        </receiver>
+
+        <receiver android:name=".alarms.AlarmsAutoStartup" android:exported="false">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>

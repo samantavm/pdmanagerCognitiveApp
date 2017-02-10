@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">PD_manager Test</string>
+
+    <string name="emotion_recognition_task">Emotion Recognition Task</string>
+    <string name="paired_associates_learning">Paired Associates Learning</string>
+    <string name="pattern_recognition_memory">Pattern Recognition Memory</string>
+    <string name="spatial_working_memory">Spatial Working Memory</string>
+    <string name="spatial_span">Spatial Span</string>
+    <string name="stop_signal_task">Stop Signal Task</string>
+    <string name="attention_switching_task">Attention Switching Task</string>
+    <string name="visual_analogue_scale">Visual Analogue Scale</string>
+    <string name="wisconsin_card_sorting_test">Wisconsin Card Sorting</string>
+    <string name="london_towers_test">London Towers</string>
+        <string name="target">Target:</string>
+        <string name="movement">Movement</string>
+    <string name="level">Level</string>
+	<string name="title_menu10">Visual Learning</string>
+	
+    <string name="menuFirst">Finger Tapping Test</string>
+    <string name="menuSecond">Cognitive Tests</string>
+
+    <string name="title_menu1">ERT</string>
+    <string name="title_menu2">PAL</string>
+    <string name="title_menu3">PRM</string>
+    <string name="title_menu4">SWM</string>
+    <string name="title_menu5">SSP</string>
+    <string name="title_menu6">SST</string>
+    <string name="title_menu7">AST</string>
+    <string name="title_menu8">VAS</string>
+    <string name="title_menu9">WCS</string>
+
+    <string name="start">Έναρξη</string>
+    <string name="next">Επόμενο</string>
+    <string name="True">Αληθές</string>
+    <string name="False">Ψευδές</string>
+    <string name="direction">ΚΑΤΕΥΘΥΝΣΗ</string>
+    <string name="position">ΘΕΣΗ</string>
+	<string name="congruent">CONGRUENT</string>
+    <string name="incongruent">INCONGRUENT</string>
+    <string name="taskFinished">Ολοκλήρωση δοκιμασίας</string>
+    <string name="question">Ερώτηση</string>
+    <string name="moves">κινήσεις</string>
+	
+	<string name="ic_launcher">ic_launcher</string>
+	
+	<string name="pal_instruction">Σε αυτό το τεστ θα δεις 6 λευκά κουτιά που θα ανοίγουν σε τυχαία σειρά. Θυμίσου σε ποιο κουτί θα εμφανιστεί το σχέδιο.</string>
+    <string name="pal_instructions_choose">Επέλεξε το κουτί στο οποίο εμφανίστηκε το σχέδιο.</string>
+    <string name="pal_feedback">Όλα σωστά.</string>
+    <string name="pal_patterns">σχέδια</string>
+    <string name="pal_levels">επίπεδο</string>
+    <string name="pal_all_correct">Όλα σωστά!</string>
+    <string name="pal_all_try_again">Προσπάθησε ξανά</string>
+    <string name="pal_errors">λάθη</string>
+    <string name="pal_results">Αποτελέσματα Paired Associates Learning Task:</string>
+
+    <string name="prm_instruction">Διαφορετικά σχέδια εμφανίζονται στο κουτί το ένα μετά το άλλο. Κοίτα προσεκτικά και θυμίσου τα σχέδια.</string>
+    <string name="prm_instruction_choose">Επέλεξε το σχέδιο που είδες πριν.</string>
+    <string name="prm_results">Αποτελέσματα Pattern Recognition Memory Task:</string>
+    <string name="prm_reverse">Αντίστροφη</string>
+    <string name="prm_random">Τυχαία</string>
+	<string name="prm_levels">Επίπεδο</string>
+    <string name="prm_patterns">σχέδια</string>
+	
+    <string name="swm_instruction">Θα δεις ορισμένα χρωματιστά κουτιά. Σε ένα από αυτά υπάρχει μια μπλε κάρτα. Βρες το κουτί με την μπλε κάρτα. Πρέπει να μαζέψεις αρκετές κάρτες για να γεμίσεις την μαύρη τρύπα στα δεξιά της οθόνης. Για να συλλέξεις την κάρτα επέλεξε την μαύρη τρύπα. Μια κάρτα ποτέ δεν εμφανίζεται στο ίδιο κουτί δύο φορές.</string>
+    <string name="swm_results">Αποτελέσματα Spatial Working Memory Task:</string>
+    <string name="swm_levels">Επίπεδο</string>
+	<string name="instruction_start_swm">Θα δεις διάφορα κουτιά που μπορεί να περιέχουν ένα μπλε τετράγωνο. Βρες το τετράγωνο και τοποθετησέ το στην στήλη στα αριστερά.</string>
+
+    <string name="ssp_instruction">Για αυτό το τεστ,θα δεις μερικά τετράγωνα στην οθόνη που θα αλλάζουν χρώμα ένα ένα. Θυμίσου την σειρά με την οποία τα τετράγωνα αλλάζουν χρώμα . Θα ακούσεις έναν ήχο όταν ολοκληρωθεί η ακολουθία. Στην συνέχεια επέλεξε τα τετράγωνα με την σειρά κατά την οποία άλλαξαν χρώμα.</string>
+    <string name="ssp_results">Αποτελέσματα Spatial Span Task:</string>
+    <string name="spatialSpan_instruction">Θα δεις μια ακολουθία από μωβ τετράγωνα να εμφανίζονται μέσα στα κουτιά, επέλεξε τα κουτιά με την ίδια σειρά.</string>
+    <string name="ssp_levels">Επίπεδο</string>
+	<string name="ssp_trial">Δοκιμή</string>
+    <string name="ssp_patterns">Σχέδια</string>
+	
+    <string name="sst_instruction_first">Πρώτο μέρος του τεστ: ένα βέλος εμφανίζεται σε ένα κύκλο, δείχνοντας αριστεά ή δεξιά. Όταν δεις το βέλος να δείχνει αριστερά, πάτησε το κουμπί με το αριστερό βέλος. Όταν δεις το βέλος να δείχνει δεξιά, πάτησε το κουμπί με το δεξιό βέλος. Πάτησε κάθε φορά τα κουμπιά όσο πιο γρήγορα μπορείς, αποφεύγοντας τα λάθη.</string>
+    <string name="sst_instruction_second">Δεύτερο μέρος του τεστ: ένα βέλος εμφανίζεται σε ένα κύκλο, δείχνοντας αριστεά ή δεξιά. Όταν δεις το βέλος να δείχνει αριστερά, πάτησε το κουμπί με το αριστερό βέλος. Όταν δεις το βέλος να δείχνει δεξιά, πάτησε το κουμπί με το δεξιό βέλος. Αλλά εάν ακούσεις ένα ΜΠΙΠ αμέσως αφότου ένα βέλος εμφανιστεί μην πατάς τίποτα. Πάτησε κάθε φορά τα κουμπιά όσο πιο γρήγορα μπορείς, αποφεύγοντας τα λάθη.</string>
+    <string name="sst_results">Αποτελέσματα Stop Signal Task:</string>
+    <string name="sst_left">ΑΡΙΣΤΕΡΑ</string>
+    <string name="sst_right">ΔΕΞΙΑ</string>
+    <string name="sst_trial">Δοκιμή</string>
+    <string name="sst_too_late">Πολύ αργά!</string>
+    <string name="sst_wrong">Λάθος</string>
+
+    <string name="ast_instruction">Ένα βέλος θα εμφανιστεί στην οθόνη, χρησιμοποίησε τα κουμπιά παρακάτω για να απαντήσεις στις ερωτήσεις. Μπορεί να χρειαστεί να υποδείξεις την θέση που είναι τοποθετημένο το βέλος ή την κατεύθυνση του βέλους.</string>
+    <string name="ast_cue_arrowDirection">Ποια ΚΑΤΕΥΘΥΝΣΗ?</string>
+    <string name="ast_cue_arrowPosition">Ποια ΘΕΣΗ?</string>
+    <string name="ast_results">Αποτελέσματα Attention Switching Task:</string>
+	<string name="ast_left">ΑΡΙΣΤΕΡΑ</string>
+    <string name="ast_right">ΔΕΞΙΑ</string>
+
+    <string name="vas_instruction">Πρέπει να απαντήσεις σε 8 ερωτήσεις όπως αυτές εμφανίζονται στην οθόνη επιλέγοντας την κατάλληλη θέση στην κλίμακα.</string>
+    <string name="vas_results">Αποτελέσματα Visual Analogue Scale:</string>
+    <string name="vas_question_minValue">0</string>
+    <string name="vas_question_maxValue">100</string>
+    <string name="vas_question1">Πως αισθάνεσαι σήμερα?</string>
+    <string name="vas_minValue_Q1">ΛΥΠΗΜΕΝΟς</string>
+    <string name="vas_maxValue_Q1">ΧΑΡΟΥΜΕΝΟΣ</string>
+    <string name="vas_question2">Αισθάνεσαι χαλαρός/ ήρεμος?</string>
+    <string name="vas_minValue_Q2">Όχι</string>
+    <string name="vas_maxValue_Q2">Ναι</string>
+    <string name="vas_question3">Δυσκολεύεσαι να συγκεντρωθείς σήμερα?</string>
+    <string name="vas_minValue_Q3">Όχι</string>
+    <string name="vas_maxValue_Q3">Ναι</string>
+    <string name="vas_question4">Έχεις κίνητρο να κάνεις τα τεστ σου σήμερα?</string>
+    <string name="vas_minValue_Q4">Όχι</string>
+    <string name="vas_maxValue_Q4">Ναι</string>
+    <string name="vas_question5">Είσαι σε ON/OFF κατάσταση αυτή την στιγμή?</string>
+    <string name="vas_minValue_Q5">Όχι</string>
+    <string name="vas_maxValue_Q5">Ναι</string>
+    <string name="vas_question6">Αισθάνεσαι πόνο ή κράμπες?</string>
+    <string name="vas_minValue_Q6">Όχι</string>
+    <string name="vas_maxValue_Q6">Ναι</string>
+    <string name="vas_question7">Πως κοιμήθηκες χτες?</string>
+    <string name="vas_minValue_Q7">κακός</string>
+    <string name="vas_maxValue_Q7">καλός</string>
+    <string name="vas_question8">Αισθάνεστε θυμό σήμερα?</string>
+    <string name="vas_minValue_Q8">Πολύ</string>
+    <string name="vas_maxValue_Q8">Καθόλου</string>
+
+    <string name="vas2_s0">Strongly disagree</string>
+    <string name="vas2_s1">Disagree</string>
+    <string name="vas2_s2">Neutral</string>
+    <string name="vas2_s3">Agree</string>
+    <string name="vas2_s4">Strongly agree</string>
+    <string name="vas2_question1">Do you feel happy today?</string>
+
+    <string name="palprm_instruction">Now you will see a series of coupled pictures. Please, try to remember the couples because, then, you will be presented only with one picture of the couple and you will have to choose the other one, picking the right one among 4 options. You will repeat the same exercise three time, with the same couples, so you will get more familiar with them.</string>
+    <string name="london_towers_instruction">In this test you will have 3 sticks and 3 marbles of different colors. You will have to arrange this marbles according to the disposition displayed in the figure on the left side of the screen.</string>
+    <string name="wisconsin_instruction">In this test, you can view 4 cards, I would like that you put each card that will be displayed under one of the guide card where you think it’s more appropriate to. Please consider that you can match the cards according to shape, color or number criteria. I will tell you if you are doing right with a green tick or if you’re doing wrong displaying a red cross. You will have a feedback after each move.</string>
+	
+	<string name="fttoneTvInstructions">Πάτα στην πράσινη επιφάνεια όσες περισσότερες φορές και όσο πιο γρήγορα μπορείς για 10 δευτερόλεπτα.</string>
+    <string name="fttoneTvTap">Πάτα εδώ!</string>
+    <string name="fttoneTvTimeNumberOfTaps">Επαναλήψεις</string>
+    <string name="fttoneTvTime">Χρόνος</string>
+    <string name="fttoneTvSeconds">δευτερόλεπτα</string>
+
+    <string name="fttTwoTvInstructions">Χρησιμοποίησε και τα δύο δάκτυλα για να πατάς εναλλάξ το δεξί και το αριστερό κουμπί όσο πιο γρήγορα μπορείς για 10 δευτερόλεπτα.</string>
+    <string name="fttTwoTvTap">Πάτα εδώ!</string>
+    <string name="fttTwoTvTimeNumberOfTaps">Επαναλήψεις</string>
+    <string name="fttTwoTvTime">Χρόνος</string>
+    <string name="fttTwoTvSeconds">δευτερόλεπτα</string>
+
+    <string name="fttEndMessage">Μπράβο! Τελείωσες.</string>
+    <string name="fttEndButtonRepeat">Κάνε ένα άλλο τεστ</string>
+    <string name="fttEndButtonExit">Έξοδος</string>
+   
+	<string name="palprm_title0">Remember the following pair of icons</string>
+    <string name="palprm_title1">Choose the icon that matches the pair previously shown with the left icon</string>
+
+    <string name="welcome">Welcome to PD_manager</string>
+    <string name="configure_user">Configure user profile</string>
+    <string name="perform_tests">Perform tests</string>
+	<string name="choose_username">Please type the name of the user this tests are addressed to:</string>
+    <string name="start_daily_tests">You have scheduled to perform a set of daily tests!</string>
+    <string name="end_tests">You have ended this set of daily tests!</string>
+    <string name="end_test_query">Are you sure you want to end this test set?</string>
+    <string name="username">user name</string>
+    <string name="next_config">Next</string>
+    <string name="end_config">End configuration</string>
+    <string name="ok">Ok</string>
+    <string name="choose_hour0">When will the user perform the tests (before 12am)?</string>
+    <string name="choose_hour1">When will the user perform the tests (after 12am)?</string>
+    <string name="choose_dow">Choose the days of week the user will perform the tests.</string>
+    <string name="config_ok">The configuration was completed successfully.</string>
+    <string name="smonday">Mo</string>
+    <string name="stuesday">Tu</string>
+    <string name="swednesday">We</string>
+    <string name="sthursday">Th</string>
+    <string name="sfriday">Fr</string>
+    <string name="ssaturday">Sa</string>
+    <string name="ssunday">Su</string>
+
+    <string name="menuThird">Voice test</string>
+    <string name="speech_instruction">In this test you will have to pronunce out loud the \"AAAAH\" phonema during five seconds when you are indicated.</string>
+    <string name="speech_wait">Wait for the countdown to end in order to start</string>
+    <string name="speech_start">Speak out loud \"AAAH\" until the countdown ends!</string>
+    <string name="start_speech">Start!</string>
+</resources>

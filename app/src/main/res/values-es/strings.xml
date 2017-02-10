@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">PD_manager Test</string>
+
+    <string name="emotion_recognition_task">Emotion Recognition Task</string>
+    <string name="paired_associates_learning">Paired Associates Learning</string>
+    <string name="pattern_recognition_memory">Pattern Recognition Memory</string>
+    <string name="spatial_working_memory">Spatial Working Memory</string>
+    <string name="spatial_span">Spatial Span</string>
+    <string name="stop_signal_task">Stop Signal Task</string>
+    <string name="attention_switching_task">Attention Switching Task</string>
+    <string name="visual_analogue_scale">Visual Analogue Scale</string>
+    <string name="wisconsin_card_sorting_test">Wisconsin Card Sorting</string>
+    <string name="london_towers_test">London Towers</string>
+        <string name="target">Objetivo:</string>
+        <string name="movement">Movimiento</string>
+    <string name="level">Nivel</string>
+	<string name="title_menu10">Visual Learning</string>
+
+    <string name="menuFirst">Finger Tapping Test</string>
+    <string name="menuSecond">Cognitive Tests</string>
+
+    <string name="title_menu1">ERT</string>
+    <string name="title_menu2">PAL</string>
+    <string name="title_menu3">PRM</string>
+    <string name="title_menu4">SWM</string>
+    <string name="title_menu5">SSP</string>
+    <string name="title_menu6">SST</string>
+    <string name="title_menu7">AST</string>
+    <string name="title_menu8">VAS</string>
+    <string name="title_menu9">WCS</string>
+
+    <string name="start">Comenzar</string>
+    <string name="next">Siguiente</string>
+    <string name="True">Verdadero</string>
+    <string name="False">Falso</string>
+    <string name="direction">DIRECCION</string>
+    <string name="position">POSICION</string>
+    <string name="congruent">CONGRUENTE</string>
+    <string name="incongruent">INCONGRUENTE</string>
+    <string name="taskFinished">Tarea finalizada</string>
+    <string name="question">Pregunta</string>
+    <string name="moves">movimientos</string>
+
+    <string name="ic_launcher">ic_launcher</string>
+
+    <string name="pal_instruction">En esta prueba verá 6 cajas blancas que se irán abriendo en un orden aleatorio. Habrá un patrón en una de las cajas y usted tendrá que recordar la caja en la que se encuentra.</string>
+    <string name="pal_instructions_choose">Toque la caja en la que vio aparecer el patrón.</string>
+    <string name="pal_feedback">Correcto</string>
+    <string name="pal_patterns">patrones</string>
+    <string name="pal_levels">Nivel</string>
+    <string name="pal_all_correct">¡Todo correcto!</string>
+    <string name="pal_all_try_again">Inténtelo de nuevo</string>
+    <string name="pal_errors">errores</string>
+    <string name="pal_results">Resultados de la tarea Paired Associates Learning:</string>
+
+    <string name="prm_instruction">Una caja aparecerá. Algunos patrones irán apareciendo en el interior de la caja, uno detrás de otro. Mire con atención e intente recordar los patrones que ha visto.</string>
+    <string name="prm_instruction_choose">Hace poco tiempo usted vio algunos patrones. Ahora aparecerán dos patrones. Toque únicamente el que vio anteriormente.</string>
+    <string name="prm_results">Resultados de la tarea Pattern Recognition Memory:</string>
+    <string name="prm_reverse">Inverso</string>
+    <string name="prm_random">Aleatorio</string>
+    <string name="prm_levels">Nivel</string>
+    <string name="prm_patterns">patrones</string>
+
+    <string name="swm_instruction">Usted verá varias cajas de colores en la pantalla. En alguna caja habrá un símbolo azul. Toque las cajas para encontrarlo. Usted debe recoger suficientes símbolos para rellenar los huecos en la derecha de la pantalla. Para recoger un símbolo, toque un hueco. Un símbolo nunca aparecerá en la misma caja más de una vez.</string>
+    <string name="swm_results">Resultados de la tarea Spatial Working Memory:</string>
+    <string name="swm_levels">Nivel</string>
+	<string name="instruction_start_swm">Usted verá diferentes cajas que contendrán o no un cuadrado azul. Encuentre el cuadrado y póngalo en la columna de la izquierda.</string>
+
+    <string name="ssp_instruction">Para esta prueba, usted verá varios cuadrados en la pantalla que irán cambiando de color, uno tras otro. Recuerde el orden en el que los cuadrados van cambiando de color. Usted escuchará un tono que le indicará que la secuencia ha terminado. Entonces, toque los cuadrados en el mismo orden en que cambiaron de color.</string>
+    <string name="ssp_results">Resultados de la tarea Spatial Span:</string>
+	<string name="spatialSpan_instruction">Usted verá aparecer una secuencia de cuadrados morados, toque las cajas en el mismo orden.</string>
+    <string name="ssp_levels">Nivel</string>
+    <string name="ssp_trial">Intento</string>
+    <string name="ssp_patterns">patrones</string>
+
+    <string name="sst_instruction_first">Primera parte de la prueba: una flecha aparecerá en el interior de un círculo, apuntando hacia la izquierda o hacia la derecha. Cuando vea la flecha apuntando hacia la izquierda, pulse el botón de la izquierda. Cuando vea la flecha apuntando hacia la derecha. pulse el botón de la derecha. Pulse los botones tan rápido como le sea posible, tratando de evitar al mismo tiempo cometer errores.</string>
+    <string name="sst_instruction_second">Segunda parte de la prueba: una flecha aparecerá en el interior de un círculo, apuntando hacia la izquierda o hacia la derecha. Cuando vea la flecha apuntando hacia la izquierda, pulse el botón de la izquierda. Cuando vea la flecha apuntando hacia la derecha. pulse el botón de la derecha. PERO, si escucha un BEEP inmediatamente después de que aparezca la flecha, NO pulse ningún botón. Pulse los botones tan rápido como le sea posible, tratando de evitar al mismo tiempo cometer errores.</string>
+    <string name="sst_results">Resultados de la tarea Stop Signal:</string>
+    <string name="sst_left">IZQUIERDA</string>
+    <string name="sst_right">DERECHA</string>
+    <string name="sst_trial">Intento</string>
+    <string name="sst_too_late">¡Demasiado tarde!</string>
+    <string name="sst_wrong">Error</string>
+
+    <string name="ast_instruction">Una flecha aparecerá en la pantalla, use los botones inferiores para responder las preguntas. Pueden pedirle que indique la posición en la que se encuentra la flecha o la dirección de la flecha.</string>
+    <string name="ast_cue_arrowDirection">¿Cuál es la DIRECCION?</string>
+    <string name="ast_cue_arrowPosition">¿Cuál es la POSICION?</string>
+    <string name="ast_results">Resultados de la tarea Attention Switching:</string>
+    <string name="ast_left">IZQUIERDA</string>
+    <string name="ast_right">DERECHA</string>
+
+    <string name="vas_instruction">Usted debe responder a las 8 preguntas que aparezcan en pantalla tocando el control deslizante de la pantalla y moviéndolo a la posición adecuada en la escala.</string>
+    <string name="vas_results">Resultados de Visual Analogue Scale:</string>
+    <string name="vas_question_minValue">0</string>
+    <string name="vas_question_maxValue">100</string>
+    <string name="vas_question1">¿Te sientes feliz hoy?</string>
+    <string name="vas_minValue_Q1">No</string>
+    <string name="vas_maxValue_Q1">Si</string>
+    <string name="vas_question2">¿Se siente relajado?</string>
+    <string name="vas_minValue_Q2">No</string>
+    <string name="vas_maxValue_Q2">Sí</string>
+    <string name="vas_question3">¿Encuentra difícil concentrarse hoy?</string>
+    <string name="vas_minValue_Q3">No</string>
+    <string name="vas_maxValue_Q3">Sí</string>
+    <string name="vas_question4">¿Se siente motivado para realizar sus pruebas hoy?</string>
+    <string name="vas_minValue_Q4">No</string>
+    <string name="vas_maxValue_Q4">Sí</string>
+    <string name="vas_question5">¿Está en estado ON/OFF, en este momento?</string>
+    <string name="vas_minValue_Q5">No</string>
+    <string name="vas_maxValue_Q5">Sí</string>
+    <string name="vas_question6">¿Siente algún dolor o calambres?</string>
+    <string name="vas_minValue_Q6">No</string>
+    <string name="vas_maxValue_Q6">Sí</string>
+    <string name="vas_question7">¿Cómo durmió anoche?</string>
+    <string name="vas_minValue_Q7">Mal</string>
+    <string name="vas_maxValue_Q7">Bien</string>
+    <string name="vas_question8">¿Está enfadado hoy?</string>
+    <string name="vas_minValue_Q8">Mucho</string>
+    <string name="vas_maxValue_Q8">En absoluto</string>
+
+    <string name="vas2_s0">Muy en\ndesacuerdo</string>
+    <string name="vas2_s1">Desacuerdo</string>
+    <string name="vas2_s2">\nNeutral</string>
+    <string name="vas2_s3">De acuerdo</string>
+    <string name="vas2_s4">Muy de\nacuerdo</string>
+	<string name="vas2_question1">¿Te sientes feliz hoy?</string>
+
+    <string name="palprm_instruction">A continuación, usted verá una serie de imágenes emparejadas. Por favor, trate de recordar dichas parejas porque, a continuación, sólo se le presentará una imagen de la pareja y tendrá que elegir la otra, escogiendo la correcta entre 4 opciones. Se repetirá el mismo ejercicio tres veces, con las mismas parejas, para que se familiarice con ellas.</string>
+    <string name="london_towers_instruction">En esta prueba, se dispondrán 3 pilas y 3 fichas de diferentes colores. Usted tendrá que recolocar las fichas en las pilas de acuerdo con la disposición que se muestra en la figura situada en el lado izquierdo de la pantalla.</string>
+    <string name="wisconsin_instruction">En esta prueba, se mostrarán 4 cartas en la parte superior de la pantalla. Usted deberá asociar la carta que se mostrará en la parte inferior izquierda de la pantalla con una de las cartas de la parte superior de la pantalla, teniendo en cuenta que el criterio de asociación de las cartas puede ser forma, color o número. Después de cada asociación se mostrará una retroalimentación: un tick verde si la asociación es correcta o una cruz roja si la asociación es errónea.</string>
+
+    <string name="fttoneTvInstructions">Toque en la zona verde tan rápido como pueda durante 10 segundos. Puede comenzar en el momento que desee.</string>
+    <string name="fttoneTvTap">¡Toque aquí!</string>
+    <string name="fttoneTvTimeNumberOfTaps">toques</string>
+    <string name="fttoneTvTime">Tiempo</string>
+    <string name="fttoneTvSeconds">segundos</string>
+
+    <string name="fttTwoTvInstructions">Use dos dedos para tocar alternativamente en los botones derecho e izquierdo tan rápido como pueda durante 10 segundos. Puede comenzar en el momento que desee.</string>
+    <string name="fttTwoTvTap">¡Toque aquí!</string>
+    <string name="fttTwoTvTimeNumberOfTaps">taps</string>
+    <string name="fttTwoTvTime">Tiempo</string>
+    <string name="fttTwoTvSeconds">segundos</string>
+
+    <string name="fttEndMessage">¡Bien hecho! Ha terminado.</string>
+    <string name="fttEndButtonRepeat">Realizar otra prueba</string>
+    <string name="fttEndButtonExit">Salir</string>
+    
+	<string name="palprm_title0">Recuerde las siguientes parejas de imágenes</string>
+    <string name="palprm_title1">Seleccione la imagen que corresponda para completar la pareja mostrada anteriormente</string>
+
+    <string name="welcome">Bienvenido a PD_manager.\nPor favor elija una de las siguientes opciones.</string>
+    <string name="configure_user">Configurar perfil de usuario</string>
+    <string name="perform_tests">Realizar pruebas</string>
+	<string name="choose_username">Por favor, introduzca el nombre de usuario:</string>
+    <string name="start_daily_tests">¡Ha programado la realización de una serie de pruebas!</string>
+    <string name="end_tests">¡Ha terminado esta serie de pruebas!</string>
+    <string name="end_test_query">¿Está seguro de terminar esta serie de pruebas?</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="next_config">Siguiente</string>
+    <string name="end_config">Terminar configuración</string>
+    <string name="ok">Ok</string>
+    <string name="choose_hour0">¿Cuándo realizará el usuario las pruebas (antes de las 12am)?</string>
+    <string name="choose_hour1">¿Cuándo realizará el usuario las pruebas (después de las 12am)?</string>
+    <string name="choose_dow">Seleccione los días de la semana en los que el usuario realizará las pruebas.</string>
+    <string name="config_ok">La configuración ha sido configurada con éxito.</string>
+    <string name="smonday">L</string>
+    <string name="stuesday">M</string>
+    <string name="swednesday">X</string>
+    <string name="sthursday">J</string>
+    <string name="sfriday">V</string>
+    <string name="ssaturday">S</string>
+    <string name="ssunday">D</string>
+
+    <string name="menuThird">Test de voz</string>
+    <string name="speech_instruction">En esta prueba usted tendrá que pronunciar en voz alta el fonema \"AAAAH\" durante cinco segundos cuando se le indique.</string>
+    <string name="speech_wait">Espere a que acabe la cuenta atrás antes de comenzar</string>
+    <string name="speech_start">¡Decir en voz alta \"AAAH\" hasta que termine la cuenta atrás!</string>
+    <string name="start_speech">¡Comenzar!</string>
+</resources>
